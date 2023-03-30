@@ -2,7 +2,7 @@
 
 
 ### Goals:
-The primary goal of this project is to visualize 2 relationships.
+The primary goal of this project is to visualize two relationships.
 1. Job category vs. amount of open positions 
 2. Civil service title vs. average salary 
 
