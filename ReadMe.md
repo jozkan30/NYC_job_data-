@@ -8,18 +8,19 @@ The primary goal of this project is to visualize 2 relationships.
 
 ### Sample Output Goal 1:
 
-Job Category                                   Count
-------------------------------------------------------
-Engineering, Architecture, & Planning           801
-Technology, Data & Innovation                   561
-Legal Affairs                                   432
-Building Operations & Maintenance               400
-Social Services                                 345
-Administration & Human Resources                319
-Finance, Accounting, & Procurement              306
-Constituent Services & Community Programs       296
-Health                                          296
-Public Safety, Inspections, & Enforcement       270
+| Job Category                                  | Count |
+| --------------------------------------------- | ----- |
+| Engineering, Architecture, & Planning         | 801   |
+| Technology, Data & Innovation                 | 561   |
+| Legal Affairs                                 | 432   |
+| Building Operations & Maintenance             | 400   |
+| Social Services                               | 345   |
+| Administration & Human Resources              | 319   |
+| Finance, Accounting, & Procurement            | 306   |
+| Constituent Services & Community Programs     | 296   |
+| Health                                        | 296   |
+| Public Safety, Inspections, & Enforcement     | 270   |
+
 
 ![Figure 1](./assets/Top_10_By_Cat.png)
 
