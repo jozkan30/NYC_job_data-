@@ -8,6 +8,7 @@ The primary goal of this project is to visualize 2 relationships.
 
 # Findings:
 ### Sample Output Goal 1:
+
 Job Category
 Engineering, Architecture, & Planning        801
 Technology, Data & Innovation                561
@@ -23,6 +24,7 @@ Public Safety, Inspections, & Enforcement    270
 ![Figure 1](./assets/Top_10_By_Cat.png)
 --- 
 ### Sample Output Goal 2:
+
 DEPUTY COMMISSIONER (DEP)         231796.0
 CITY CHIEF DECARBONIZATION        213783.0
 DEPUTY COMMISSIONER (DOC)         205000.0
