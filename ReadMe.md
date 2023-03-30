@@ -1,4 +1,4 @@
-### NYC Job Data Visualization
+# NYC Job Data Visualization
 
 
 ### Goals:
@@ -6,7 +6,6 @@ The primary goal of this project is to visualize 2 relationships.
 1. Job category vs. amount of open positions 
 2. Civil service title vs. average salary 
 
-# Findings:
 ### Sample Output Goal 1:
 
 Job Category
@@ -20,9 +19,9 @@ Finance, Accounting, & Procurement           306
 Constituent Services & Community Programs    296
 Health                                       296
 Public Safety, Inspections, & Enforcement    270
----
+
 ![Figure 1](./assets/Top_10_By_Cat.png)
---- 
+
 ### Sample Output Goal 2:
 
 DEPUTY COMMISSIONER (DEP)         231796.0
