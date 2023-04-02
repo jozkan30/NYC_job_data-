@@ -26,22 +26,21 @@ The primary goal of this project is to visualize two relationships.
 
 ### Sample Output Goal 2:
 
-| Civil Serivce Title              | Salary    |
-| -------------------------------- | ----------|
-| DEPUTY COMMISSIONER (DEP)        | 231796.0  |
-| CITY CHIEF DECARBONIZATION       | 213783.0  |
-| DEPUTY COMMISSIONER (DOC)        | 205000.0  |
-| PRINCIPAL INVESTMENT OFFICER     | 205000.0  |
-| FACILITY SUPERVISOR CORRECTION    | 201587.0  |
-| BUDGET ANALYST (OMB)-MANAGERIAL   | 201216.6  |
-| DEPUTY EXECUTIVE DIRECTOR (HA)   | 200300.0  |
-| DEPUTY COMMISSIONER SPECIAL      | 192500.0  |
-| ASSOCIATE COMMISSIONER (DOC)     | 185000.0  |
-| DEPUTY EXECUTIVE DIRECTOR CAMP   | 181250.0  |
+| Business Title                                            | Average Salary |
+|-----------------------------------------------------------|----------------|
+| Deputy Commissioner, Wastewater Treatment                 | $231,796       |
+| Deputy Director of Management  Executive                  | $227,449       |
+| Deputy Director  Executive                                | $227,449       |
+| Deputy Commissioner, Energy Management                    | $213,783       |
+| Senior Deputy Commissioner                                | $212,500       |
+| Deputy Commissioner, Facilities & Fleet Administration    | $210,000       |
+| Deputy Commissioner, Human Resources                      | $210,000       |
+| Chief Technology Officer                                  | $210,000       |
+| Deputy Comptroller, Public Finance                        | $205,000       |
+| Assistant Commissioner, Facility Operations               | $201,587       |
 
 
---- 
-![Figure 2](./assets/Top_10_Salary.png)
+![Figure 2](./assets/Top_10_vs_Salary.png)
 --- 
 
 ### Data:
